@@ -50,7 +50,7 @@ EOF
 }
 
 function get_rom_type() {
-    mainrepo="https://github.com/Havoc-OS-GSI/android_manifest.git"
+    mainrepo="https://github.com/niaboc79/havoc_android_manifest.git"
     mainbranch="ten"
     localManifestBranch="android-10.0"
     extra_make_options="WITHOUT_CHECK_API=true"
